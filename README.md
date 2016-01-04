@@ -10,7 +10,7 @@ Code is written on Python2.x
 * `$ cd env`
 * `$ . bin/activate`
 * `$ git clone http://github.com/SevenKeys/mongodb-blog-example.git`
-* `$ cd mongodb-blog-example
+* `$ cd mongodb-blog-example`
 * `$ pip install -r requirements.txt`
-* `$ cd blogs
+* `$ cd blogs`
 * `$ python blog.py`
